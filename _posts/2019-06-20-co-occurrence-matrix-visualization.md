@@ -129,7 +129,7 @@ Xc = (X.T * X) # matrix manipulation
 Xc.setdiag(0) # set the diagonals to be zeroes as it's pointless to be 1
 ```
 
-# convert to table, export to csv to do the visualization
+#### Convert into matrix table
 
 ```python
 import pandas as pd
