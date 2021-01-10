@@ -5,7 +5,7 @@ date: 2019-06-20 14:57
 category: [Tech Notes, NLP]
 author: rainy
 description: Graph visualization on representing sementic text relationships
-image: /assets/images/1.jpg
+image: /assets/images/blog/2019-06-20-co-occurrence-matrix-visualization/0620-gelphi2.png
 comments: true
 ---
 
