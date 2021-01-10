@@ -2,11 +2,9 @@
 title: "Word Co-occurrence Matrix Implementation and Visualization"
 layout: page
 date: 2019-06-20 14:57
-image: /assets/images/blog/2019-06-20-co-occurrence-matrix-visualization/0620-gelphi2.png
 category: [Tech Notes, NLP]
 author: rainy
 description: Graph visualization on representing sementic text relationships
-featured: true
 comments: true
 ---
 
