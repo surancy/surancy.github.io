@@ -5,6 +5,7 @@ date: 2019-06-20 14:57
 category: [Tech Notes, NLP]
 author: rainy
 description: Graph visualization on representing sementic text relationships
+image: /assets/images/1.jpg
 comments: true
 ---
 
