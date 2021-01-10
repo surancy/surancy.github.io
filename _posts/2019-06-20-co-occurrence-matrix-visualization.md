@@ -1,12 +1,12 @@
 ---
 title: "Word Co-occurrence Matrix Implementation and Visualization"
-layout: post
+layout: page
 date: 2019-06-20 14:57
 image: /assets/images/blog/2019-06-20-co-occurrence-matrix-visualization/0620-gelphi2.png
-category: [Tech Notes]
+category: [Tech Notes, NLP]
 author: Rainy
 description: Graph visualization on representing sementic text relationships
-
+comments: true
 ---
 
 ## Word Co-occurance Matrix in Python and Network Visualization in Gelphi
@@ -139,7 +139,7 @@ df.to_csv('to gephi.csv', sep = ',')
 ```
 
 Quick look at the matrix table
-![0620-table.png](\img\blog\0620-table.png)
+![0620-table.png](/assets/images/blog/2019-06-20-co-occurrence-matrix-visualization/0620-table.png)
 
 
 #### Visualization
