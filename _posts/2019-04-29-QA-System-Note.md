@@ -2,13 +2,11 @@
 title: "Question Answering System Note"
 layout: post
 date: 2019-04-09
-tag:
-- Machine Learning
-- NLP
-- Information-retrieval
-category: blog
+category: [Tech notes, NLP]
 author: rainy
-description: note on building an IR-based QA System
+comments: true
+image: assets/images/blog/qa-notes/qafrombook.png
+description: notes on building an information retrieval QA System
 ---
 
 # Question Answering System
@@ -19,7 +17,7 @@ This mainly focuses on some key features for generating answers in an IR-based Q
 References from **Speech and Language Processing 3rd ed** by *Daniel Jurafsky and James H. Martin*
 
 ## QA Pipeline
-![qafrombook.png](\img\qafrombook.png)
+![qafrombook.png](\assets\images\blog\qa-notes\qafrombook.png)
 from *Speech and Language Processing 3rd ed* P.403
 
 ## Question Types
