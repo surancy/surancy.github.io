@@ -9,8 +9,8 @@ image: assets/images/blog/qa-notes/qafrombook.png
 description: notes on building an information retrieval QA System
 ---
 
-img: QA Pipeline
-from *Speech and Language Processing 3rd ed* P.403
+
+Takeaways on building an information retrieval QA System, notes from *Speech and Language Processing 3rd ed* P.403
 
 ## Question Types
 **Factoid questions** simple question, concise answer, usually one NER (most commertial systems)
