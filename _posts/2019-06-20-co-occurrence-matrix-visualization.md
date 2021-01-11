@@ -8,6 +8,7 @@ description: Graph visualization on representing sementic text relationships
 image: assets/images/blog/2019-06-20-co-occurrence-matrix-visualization/0620-gelphi2.png
 comments: true
 ---
+![0620-gelphi2.png](/assets/images/blog/2019-06-20-co-occurrence-matrix-visualization/0620-gelphi2.png)   
 
 ## Word Co-occurance Matrix in Python and Network Visualization in Gelphi
 
@@ -148,8 +149,6 @@ Visualization of the co-occurrence matrix network is done by using Gelphi, a ope
 ![0620-gelphi1.png](/assets/images/blog/2019-06-20-co-occurrence-matrix-visualization/0620-gelphi1.png)  
 
 Drawing layout: Fruchterman Reingold (Force-directed graph drawing)  
-
-![0620-gelphi2.png](/assets/images/blog/2019-06-20-co-occurrence-matrix-visualization/0620-gelphi2.png)   
 
 ![0620-gelphi3.png](/assets/images/blog/2019-06-20-co-occurrence-matrix-visualization/0620-gelphi3.png)   
 
