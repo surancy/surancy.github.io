@@ -1,7 +1,7 @@
 # Site
 name: "Rainy Notes"
 title: "my-title"
-description: "I work with data and I cook and paint."
+description: "I work with data, I like to post food blogs, and sometimes I draw."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
