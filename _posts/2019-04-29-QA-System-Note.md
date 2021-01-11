@@ -9,13 +9,6 @@ image: assets/images/blog/qa-notes/qafrombook.png
 description: notes on building an information retrieval QA System
 ---
 
-# Question Answering System
-by Chenyu Shen
-04/2019
-This mainly focuses on some key features for generating answers in an IR-based QA System
-
-References from **Speech and Language Processing 3rd ed** by *Daniel Jurafsky and James H. Martin*
-
 ## QA Pipeline
 ![qafrombook.png](\assets\images\blog\qa-notes\qafrombook.png)
 from *Speech and Language Processing 3rd ed* P.403
