@@ -9,8 +9,7 @@ image: assets/images/blog/qa-notes/qafrombook.png
 description: notes on building an information retrieval QA System
 ---
 
-## QA Pipeline
-![qafrombook.png](\assets\images\blog\qa-notes\qafrombook.png)
+img: QA Pipeline
 from *Speech and Language Processing 3rd ed* P.403
 
 ## Question Types
