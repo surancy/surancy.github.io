@@ -8,16 +8,15 @@ description: Graph visualization on representing sementic text relationships
 image: assets/images/blog/2019-06-20-co-occurrence-matrix-visualization/0620-gelphi2.png
 comments: true
 ---
+
 ![0620-gelphi2.png](/assets/images/blog/2019-06-20-co-occurrence-matrix-visualization/0620-gelphi2.png)   
 
 ## Word Co-occurance Matrix in Python and Network Visualization in Gelphi
-
 Co-occurrence matrices analyze text in context. Word embeddings and vector semantics 
 are ways to understand words in their context, namely the **semantics analysis** in NLP 
 (compare to syntax analysis such as language modeling using ngram, Part-of-Speech (POS) taggings, Named Entity Recognition (NER)).
 
 ### Word embeddings and vector semantics
-
 Thesaurus-based meaning has problems:  
 thesaurus for every language  
 time evolves and meaning changes  
