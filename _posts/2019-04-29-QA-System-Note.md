@@ -2,7 +2,7 @@
 title: "Question Answering System Note"
 layout: post
 date: 2019-04-09
-category: [Tech notes, NLP]
+category: [tech notes, NLP]
 author: rainy
 comments: true
 image: assets/images/blog/qa-notes/qafrombook.png
