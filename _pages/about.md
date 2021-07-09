@@ -10,8 +10,5 @@ Hello! I'm Rainy. I'm a Data Engineer at Mastercard. I'm from Shenzhen, China. S
 *Other places to find me:*
 GitHub: https://github.com/surancy   
 LinkedIn: https://www.linkedin.com/in/rainyshen   
-instagram: @surancy   
-微信公众号: 雷妮沈   
 
-![forest1](/assets/images/forest1.jpg)
--Rainy, January 2021
+
