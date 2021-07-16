@@ -5,7 +5,7 @@ permalink: /about
 comments: false
 ---
 
-Hello! I'm Rainy. I'm a Data Engineer at Mastercard. I'm from Shenzhen, China. Spent my undergrad years in University of Connecticut and then went to grad school at Carnegie Mellon. Pretty much like my website's description - I work with data, I like to cook, and sometimes I draw. I am passionate about my work, but also other dimensions in life.
+Hello! :)
 
 *Other places to find me:*
 GitHub: https://github.com/surancy   
